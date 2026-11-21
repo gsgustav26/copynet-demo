@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460">
+  <title>Copynet · Importadores directos</title>
+  <defs>
+    <clipPath id="cortec"><rect x="0" y="0" width="538" height="460"/></clipPath>
+  </defs>
+  <rect width="760" height="460" fill="#fff"/>
+  <!-- Impresora -->
+  <g fill="none" stroke="#1a1a1a" stroke-width="17" stroke-linejoin="round">
+    <rect x="112" y="30" width="104" height="80" rx="6"/>
+    <rect x="42" y="102" width="242" height="134" rx="22" fill="#fff"/>
+    <line x1="80" y1="190" x2="246" y2="190" stroke-linecap="round"/>
+    <rect x="112" y="190" width="104" height="76" rx="6" fill="#fff"/>
+  </g>
+  <rect x="146" y="136" width="38" height="13" rx="6.5" fill="#1a1a1a"/>
+  <rect x="144" y="222" width="40" height="13" rx="6.5" fill="#1a1a1a"/>
+  <!-- C -->
+  <circle cx="420" cy="152" r="88" fill="none" stroke="#1a1a1a" stroke-width="66"
+          stroke-dasharray="460 1000" stroke-dashoffset="-50" clip-path="url(#cortec)"
+          transform="rotate(0 420 152)"/>
+  <!-- N -->
+  <path d="M528 40 H596 L668 176 V40 H724 V266 H662 L586 124 V266 H528 Z" fill="#1a1a1a" stroke="#fff" stroke-width="9" paint-order="stroke"/>
+  <!-- COPYNET -->
+  <g font-family="'Arial Black','Segoe UI Black',Arial,sans-serif" font-weight="900" font-style="italic"
+     font-size="84" fill="#1a1a1a">
+    <text x="40" y="374">C</text>
+    <text x="232" y="374">P</text>
+    <text x="330" y="374">Y</text>
+    <text x="436" y="374">N</text>
+    <text x="545" y="374">E</text>
+    <text x="640" y="374">T</text>
+  </g>
+  <!-- O con colores CMYK -->
+  <g fill="none" stroke-width="20" transform="translate(166 343)">
+    <path d="M -14.5 25.1 A 29 29 0 0 1 -28.6 -5.0" stroke="#1a1a1a"/>
+    <path d="M -28.6 -5.0 A 29 29 0 0 1 2.5 -28.9" stroke="#00a3e0"/>
+    <path d="M 2.5 -28.9 A 29 29 0 0 1 27.3 9.9" stroke="#e6007e"/>
+    <path d="M 27.3 9.9 A 29 29 0 0 1 -14.5 25.1" stroke="#f5e400"/>
+  </g>
+  <!-- Lema -->
+  <text x="68" y="440" textLength="666" lengthAdjust="spacingAndGlyphs"
+        font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-weight="700"
+        font-size="54" fill="#1a1a1a">IMPORTADORES DIRECTOS</text>
+</svg>

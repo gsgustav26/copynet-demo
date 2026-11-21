@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-74 -298 910 910" width="910" height="910">
+  <title>Copynet</title>
+  <defs>
+    <clipPath id="cortec"><rect x="0" y="0" width="538" height="460"/></clipPath>
+  </defs>
+  <rect x="-74" y="-298" width="910" height="910" fill="#fff"/>
+  <!-- Impresora -->
+  <g fill="none" stroke="#1a1a1a" stroke-width="17" stroke-linejoin="round">
+    <rect x="112" y="30" width="104" height="80" rx="6"/>
+    <rect x="42" y="102" width="242" height="134" rx="22" fill="#fff"/>
+    <line x1="80" y1="190" x2="246" y2="190" stroke-linecap="round"/>
+    <rect x="112" y="190" width="104" height="76" rx="6" fill="#fff"/>
+  </g>
+  <rect x="146" y="136" width="38" height="13" rx="6.5" fill="#1a1a1a"/>
+  <rect x="144" y="222" width="40" height="13" rx="6.5" fill="#1a1a1a"/>
+  <!-- C -->
+  <circle cx="420" cy="152" r="88" fill="none" stroke="#1a1a1a" stroke-width="66"
+          stroke-dasharray="460 1000" stroke-dashoffset="-50" clip-path="url(#cortec)"
+          transform="rotate(0 420 152)"/>
+  <!-- N -->
+  <path d="M528 40 H596 L668 176 V40 H724 V266 H662 L586 124 V266 H528 Z" fill="#1a1a1a" stroke="#fff" stroke-width="9" paint-order="stroke"/>
+</svg>
